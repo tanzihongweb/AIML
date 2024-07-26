@@ -24,4 +24,11 @@ pip install Pillow
 
 Suppoter of this project
 *XSB * e-mail adress: xsb201051@outlook.com
+
 *indexqwq * No-Anythings
+
+PYTHON DOWNLOAD
+[https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe) python3.11.1 release x64
+
+[https://www.python.org/ftp/python/3.11.1/python-3.11.1.exe](https://www.python.org/ftp/python/3.11.1/python-3.11.1.exe) python3.11.1 release x86 (32bit)
+
